@@ -1,0 +1,10 @@
+hash: 9553242117e4ffa989f1c35346acea5c1887e0789981b2ffaa38716870739b7f
+updated: 2017-08-27T22:32:36.8781154+09:00
+imports:
+- name: github.com/docker/cli
+  version: 21b5bbe41199e430d86c6619cbdfdd12bfcd76bc
+- name: golang.org/x/net
+  version: 57efc9c3d9f91fb3277f8da1cff370539c4d3dc5
+  subpackages:
+  - websocket
+testImports: []
